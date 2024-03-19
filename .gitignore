@@ -1,0 +1,18 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# IDE or editor specific files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Environment-specific settings
+.env
